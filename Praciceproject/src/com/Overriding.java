@@ -12,7 +12,7 @@ class eat extends person
 	@Override
 	void display()
 	{
-		super.display();
+		
 		System.out.println("The man is eating");
 	}
 }
